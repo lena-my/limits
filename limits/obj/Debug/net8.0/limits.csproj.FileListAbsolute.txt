@@ -1,0 +1,15 @@
+/Users/helenamiura/Projects/Net/08-c/limits/bin/Debug/net8.0/limits
+/Users/helenamiura/Projects/Net/08-c/limits/bin/Debug/net8.0/limits.deps.json
+/Users/helenamiura/Projects/Net/08-c/limits/bin/Debug/net8.0/limits.runtimeconfig.json
+/Users/helenamiura/Projects/Net/08-c/limits/bin/Debug/net8.0/limits.dll
+/Users/helenamiura/Projects/Net/08-c/limits/bin/Debug/net8.0/limits.pdb
+/Users/helenamiura/Projects/Net/08-c/limits/obj/Debug/net8.0/limits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenamiura/Projects/Net/08-c/limits/obj/Debug/net8.0/limits.AssemblyInfoInputs.cache
+/Users/helenamiura/Projects/Net/08-c/limits/obj/Debug/net8.0/limits.AssemblyInfo.cs
+/Users/helenamiura/Projects/Net/08-c/limits/obj/Debug/net8.0/limits.csproj.CoreCompileInputs.cache
+/Users/helenamiura/Projects/Net/08-c/limits/obj/Debug/net8.0/limits.sourcelink.json
+/Users/helenamiura/Projects/Net/08-c/limits/obj/Debug/net8.0/limits.dll
+/Users/helenamiura/Projects/Net/08-c/limits/obj/Debug/net8.0/refint/limits.dll
+/Users/helenamiura/Projects/Net/08-c/limits/obj/Debug/net8.0/limits.pdb
+/Users/helenamiura/Projects/Net/08-c/limits/obj/Debug/net8.0/limits.genruntimeconfig.cache
+/Users/helenamiura/Projects/Net/08-c/limits/obj/Debug/net8.0/ref/limits.dll
